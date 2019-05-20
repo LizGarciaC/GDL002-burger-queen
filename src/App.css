@@ -1,0 +1,9 @@
+@media screen and (max-width:640px) {
+  /* reglas CSS para mobil*/
+}
+@media screen and (max-width:1024px) and (min-width:640px) {
+  /* reglas CSS para tablet */
+}
+@media screen and (min-width:1024px) {
+  /* reglas CSS para  PC */
+}
