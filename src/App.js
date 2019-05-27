@@ -1,8 +1,9 @@
 import React,{Component} from 'react';
 import {BrowserRouter,Link, Route, Switch} from 'react-router-dom';
 import Login from './Components/Login';
-import Pedidos from './Components/Pedidos'
-import Cocina from './Components/Cocina'
+import Pedidos from './Components/Pedidos';
+import Cocina from './Components/Cocina';
+import firebase from './firebase'
 
 
 

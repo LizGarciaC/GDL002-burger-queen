@@ -1,50 +1,18 @@
 [
     {
-        "name": "Café Americano   $5",
-        "price": "$5"
+        "name": "Café Americano   $ ",
+        "price": "5"
     },
     {
-        "name": "Café con Leche $7",
-        "price": "$7"
+        "name": "Café con Leche $ ",
+        "price": "7"
     },
     {
-        "name": "Sandwich jamón con queso $10",
-        "price": "$10"
+        "name": "Sandwich jamón con queso $ ",
+        "price": "10"
     },
     {
-        "name": "Jugo Natural $7",
-        "price": "$7"
-    },
-    {
-        "name": "Hamburgesa simple $10",
-        "price": "$10"
-    },
-    {
-        "name": "Hamburgesa doble $15",
-        "price": "$15"
-    },
-    {
-        "name": "Papas fritas $5",
-        "price": "$5"
-    },
-    {
-        "name": "Aros de cebolla $5",
-        "price": "$5"
-    },
-    {
-        "name": "Agua 500ml $5",
-        "price": "$5"
-    },
-    {
-        "name": "Agua 750ml $5",
-        "price": "$5"
-    },
-    {
-        "name": "Gaseosa 500ml $5",
-        "price": "$5"
-    },
-    {
-        "name": "Gaseosa 750ml $7",
-        "price": "$7 "
+        "name": "Jugo Natural $ ",
+        "price": "7"
     }
 ]

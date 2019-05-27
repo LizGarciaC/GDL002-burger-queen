@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "firebase": "^6.0.4",
     "gh-pages": "^2.0.1",
     "homepage": "https://LizGarciaC.github.io//GDL002-burger-queen",
     "react": "^16.8.6",
