@@ -4,7 +4,7 @@ import Login from './Components/Login';
 import Pedidos from './Components/Pedidos';
 import Cocina from './Components/Cocina';
 import firebase from './firebase'
-
+import basedatos from './Components/Basedatos';
 
 
 class App extends Component {
@@ -15,6 +15,7 @@ class App extends Component {
         <Route path="/" component={Login} exact/>
         <Route path="/pedidos" component={Pedidos}/>
         <Route path="/cocina" component={Cocina}/>
+        <Route path="/basedatos" component={basedatos}/>
       </Switch>
       </BrowserRouter>
     );

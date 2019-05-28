@@ -32,10 +32,6 @@ function Login() {
             <div>
                 <button className='btnBase2'><Link className='noDecor' to="/pedidos">Pedidos</Link></button>
                 <button className='btnBase2'><Link className='noDecor' to="/cocina">Cocina</Link></button>
-
-    {/* { <Link className='btnBase2' to="/cocina">Cocina</Link> } */}
-                {/* <input className='btnBase redBtn' type='button' value='Pedidos'></input> */}
-                {/* <input className='btnBase whiteBtn' type='button' value='Cocina'></input> */}
             </div>
 
         </div>
